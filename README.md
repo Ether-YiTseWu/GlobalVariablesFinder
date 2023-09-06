@@ -21,7 +21,7 @@ python finder.py -f "your folder name"
 - A CSV file named report.csv
 
 | ITEM | Variable Name | In Which Program |
-| :-----| ----: | :----: |
+| :-:| :-: | :-: |
 | 0 | temp | swap.c |
 | 1 | count | countNum.c |
 | ... | ... | ... |
