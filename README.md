@@ -12,6 +12,7 @@ Use python shell and ctags command line tool to list all the global variables in
 
 ### Result
 - A CSV file named report.csv
+
 | ITEM | Variable Name | In Which Program |
 | :-----| ----: | :----: |
 | 0 | temp | swap.c |
