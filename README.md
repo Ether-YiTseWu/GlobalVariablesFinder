@@ -1,5 +1,10 @@
 # GlobalVariablesFinder
-Use python shell and ctags command line tool to list all the global variables in the .c files
+Use 
+
+1. python shell
+2. ctags command line tool
+
+to list all the global variables in the .c and .h files
 
 ## Usage
 ### Environment
