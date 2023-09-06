@@ -13,7 +13,9 @@ to list all the global variables in the .c and .h files
 - tool : ctags
 
 ### Command
-- python finder.py -f "your folder name"
+```python
+python finder.py -f "your folder name"
+```
 
 ### Result
 - A CSV file named report.csv
