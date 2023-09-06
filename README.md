@@ -17,3 +17,4 @@ Use python shell and ctags command line tool to list all the global variables in
 | :-----| ----: | :----: |
 | 0 | temp | swap.c |
 | 1 | count | countNum.c |
+| ... | ... | ... |
